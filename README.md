@@ -6,3 +6,4 @@ Live Demo: [safarm.netlify.app](https://safarm.netlify.app)
 SaFarm is a farm-based platform located in Diani, Ukunda. 
 It showcases our poultry farming, green farming, and German Shepherd breeding program, 
 with a focus on freshness, trust, and timely delivery.
+This is the frontend part of an complete fullstack website done in react, tailwindcss and laravel , 
